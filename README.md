@@ -9,6 +9,10 @@ A modern, interactive coding platform designed to help students practice Data St
 
 [View Live Demo](https://tech-learn-assignment.vercel.app)
 
+## Screenshot
+
+<img width="1702" height="956" alt="image" src="https://github.com/user-attachments/assets/6e1d8db0-cd4a-4922-99d2-1fd08034f880" />
+
 ## Tech Stack
 
 ### Frontend Framework & Build Tools
