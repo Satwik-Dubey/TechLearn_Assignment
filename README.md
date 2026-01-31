@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TechLearn - Interactive Coding Platform
 
 A modern, interactive coding platform designed to help students practice Data Structures and Algorithms through daily challenges. Built with React, TypeScript, and Vite.
@@ -274,4 +275,3 @@ This project is licensed under the MIT License.
 - GitHub: [@Satwik-Dubey](https://github.com/Satwik-Dubey)
 - Email: [dubeysatwik0@gmail.com]
 
-⭐ Star this repo if you found it helpful!
