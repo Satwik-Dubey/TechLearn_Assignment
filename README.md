@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TechLearn - Interactive Coding Platform
 
 A modern, interactive coding platform designed to help students practice Data Structures and Algorithms through daily challenges. Built with React, TypeScript, and Vite.
@@ -7,11 +7,7 @@ A modern, interactive coding platform designed to help students practice Data St
 
 ## 🚀 Live Demo
 
-[View Live Demo](#) <!-- Add your deployment URL here -->
-
-## Screenshots
-
-<!-- Add screenshots of your application here -->
+[View Live Demo](https://tech-learn-assignment.vercel.app)
 
 ## Tech Stack
 
